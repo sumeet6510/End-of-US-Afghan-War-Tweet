@@ -8,7 +8,6 @@ A project on sentiment analysis
 #### 3. Data Preprocessing
 #### 4. Model Training
 #### 5. Evaluation
-#### 6. Conclusion
 
 
 # 1. Introduction
@@ -53,8 +52,8 @@ Our objective is to build a classification model to predict the sentiment of COV
 
 ### After cleaning text we also create wordblog
 
+![image](https://user-images.githubusercontent.com/82259772/144591527-5a8e03fe-d6c9-4202-994f-679c5f733a4c.png)
 
-![Capture5](https://user-images.githubusercontent.com/82259772/130586193-9eea8926-321f-452f-9af0-118f1276e9aa.PNG)
 
 # 4. Model Training
 
@@ -63,7 +62,7 @@ Trained Logistic Regression, Xgboost, perceptron and Multinomial Naive Bayes alg
 # 5. Evaluation
 
 ### we got accuracy as - 
-![Capture6](https://user-images.githubusercontent.com/82259772/130586271-af765d82-84b0-4a7b-a452-39dee1316a84.PNG)
+![image](https://user-images.githubusercontent.com/82259772/144591433-f2307aad-38ed-4039-8f92-f52df08f791f.png)
 
 
 
